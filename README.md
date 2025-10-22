@@ -1,12 +1,13 @@
 # Java Network Programming Assignment
 
-Repository tổng hợp các bài tập lập trình mạng bằng Java, bao gồm các mô hình giao tiếp cơ bản giữa client và server:
+ Repository tổng hợp các bài tập lập trình mạng bằng Java, bao gồm các mô hình giao tiếp cơ bản giữa client và server:
 
 - TCP Socket
 - UDP Datagram
 - RMI (Remote Method Invocation)
 - Web Service (SOAP)
 ---
+
 ## Mục đích
 
 - Thực hành kiến thức môn **Lập trình Mạng**
